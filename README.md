@@ -3,7 +3,7 @@
 In this section, I have learned about HTML and different CSS elements. I have practiced Git workflows, User stories, professional read me.
 - [Website Preview](#website-preview)
 - [Credits](#credits)
- NA
+NA
 - [License](#license)
 - [How To Contribute](#how-to-contribute)
 ## Website Preview
