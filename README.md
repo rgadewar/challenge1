@@ -1,30 +1,15 @@
 # challenge1
 ## Description
-In this section, I have learned about HTML and diffrent CSS elements. I have practiced Git workflows, User stories, professional read me.
+In this section, I have learned about HTML and different CSS elements. I have practiced Git workflows, User stories, professional read me.
 - [Website Preview](#website-preview)
 - [Credits](#credits)
-    - [CSS Information](#css-information)
-    - [CSSBox Information](#cssbox-information)
-    - [Git Cheat Sheet](#git-cheat-sheet-pdf)
-    - [Git Flow Process](#git-flow-process)
-    - [HTML Reference](#html-reference)
+ NA
 - [License](#license)
 - [How To Contribute](#how-to-contribute)
 ## Website Preview
-[Horiseon Website Link](https://estee3.github.io/Accessability-Refactoring/)
-![alt text](assets/images/Website.png)
+[Horiseon Website Link](https://rgadewar.github.io/challenge1/)
 ## Credits
-NOTE: Click preview pictures to navigate to the referenced site
-### CSS Information
-[![name](assets/images/CSS.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-### CSSBox Information
-[![name](assets/images/CSSBox.png)](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
-### Git Cheat Sheet (pdf)
-[![name](assets/images/GitCheatSheet.png)](https://education.github.com/git-cheat-sheet-education.pdf)
-### Git Flow Process
-[![name](assets/images/GitFlow.png)](https://docs.github.com/en/get-started/quickstart/github-flow)
-### HTML Reference
-[![name](assets/images/HTMLReference.png)](https://www.w3schools.com/tags/tag_meta.asp)
+NA
 ## License
 MIT License
 Copyright (c) [year] [fullname]
