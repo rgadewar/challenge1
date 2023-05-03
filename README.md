@@ -1,13 +1,14 @@
 # challenge1
 ## Description
-In this section, I have learned about HTML and different CSS elements. I have practiced Git workflows, User stories, professional read me.
+In this section, I have learned about HTML and different CSS elements. I have practiced Git workflows, User stories, professional read me. This website contains notes on HTML, CSS, Git, and JavaScript.
 - [Website Preview](#website-preview)
-- [Credits](#credits)
-NA
+- [Credits](#credits]
 - [License](#license)
 - [How To Contribute](#how-to-contribute)
 ## Website Preview
 [Horiseon Website Link](https://rgadewar.github.io/challenge1/)
+## Installation
+N/A
 ## Credits
 NA
 ## License
