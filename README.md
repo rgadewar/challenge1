@@ -2,8 +2,13 @@
 ## Description
 In this section, I have learned about HTML and different CSS elements. I have practiced Git workflows, User stories, professional read me. This website contains notes on HTML, CSS, Git, and JavaScript.
 - [Website Preview](#website-preview)
-- [Credits][#credits]
-- [License](#license)
+- [Credits](#credits)
+    - [CSS Information](#css-information)
+    - [Git Cheat Sheet](#git-cheat-sheet-pdf)
+    - [Git Flow Process](#git-flow-process)
+    - [HTML Reference](#html-reference)
+    - [Java Basics](#java-basics)
+    - [Java Data Types](#java-data-types)
 - [How To Contribute](#how-to-contribute)
 ## Website Preview
 [Horiseon Website Link](https://rgadewar.github.io/challenge1/)
@@ -11,7 +16,16 @@ In this section, I have learned about HTML and different CSS elements. I have pr
 ## Installation
 N/A
 ## Credits
-NA
+### CSS Information
+[![name](assets/images/CSS.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### Git Cheat Sheet (pdf)
+[![name](assets/images/GitCheatSheet.png)](https://education.github.com/git-cheat-sheet-education.pdf)
+### Git Flow Process
+[![name](assets/images/GitFlow.png)](https://docs.github.com/en/get-started/quickstart/github-flow)
+### HTML Reference
+[![name](assets/images/HTMLReference.png)](https://www.w3schools.com/tags/tag_meta.asp)
+## Thank you all
+Everyone helped in this first challenge. Study group also helped in this process. Thank you to everyone.
 ## License
 MIT License
 Copyright (c) [year] [fullname]
