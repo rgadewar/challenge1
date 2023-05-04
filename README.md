@@ -7,8 +7,6 @@ In this section, I have learned about HTML and different CSS elements. I have pr
     - [Git Cheat Sheet](#git-cheat-sheet-pdf)
     - [Git Flow Process](#git-flow-process)
     - [HTML Reference](#html-reference)
-    - [Java Basics](#java-basics)
-    - [Java Data Types](#java-data-types)
 - [How To Contribute](#how-to-contribute)
 ## Website Preview
 [Horiseon Website Link](https://rgadewar.github.io/challenge1/)
