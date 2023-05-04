@@ -11,8 +11,9 @@ In this section, I have learned about HTML and different CSS elements. I have pr
     - [Java Data Types](#java-data-types)
 - [How To Contribute](#how-to-contribute)
 ## Website Preview
- [Horiseon Website Link](https://rgadewar.github.io/challenge1/)
- ![alt](assets/images/Website.png)
+[Horiseon Website Link](https://rgadewar.github.io/challenge1/)
+
+![alt](assets/images/Website.png)
 ## Installation
 N/A
 ## Credits
