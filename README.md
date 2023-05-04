@@ -11,19 +11,19 @@ In this section, I have learned about HTML and different CSS elements. I have pr
     - [Java Data Types](#java-data-types)
 - [How To Contribute](#how-to-contribute)
 ## Website Preview
-[Horiseon Website Link](https://rgadewar.github.io/challenge1/)
-![alt text](assets/images/Website.png)
+ [Horiseon Website Link](https://rgadewar.github.io/challenge1/)
+ ![alt](assets/images/Website.png)
 ## Installation
 N/A
 ## Credits
 ### CSS Information
-[![name](assets/images/CSS.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![name](assets/images/css.PNG)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ### Git Cheat Sheet (pdf)
-[![name](assets/images/GitCheatSheet.png)](https://education.github.com/git-cheat-sheet-education.pdf)
+[![name](assets/images/gitcheat.png)](https://education.github.com/git-cheat-sheet-education.pdf)
 ### Git Flow Process
-[![name](assets/images/GitFlow.png)](https://docs.github.com/en/get-started/quickstart/github-flow)
+[![name](assets/images/github-flow.PNG)](https://docs.github.com/en/get-started/quickstart/github-flow)
 ### HTML Reference
-[![name](assets/images/HTMLReference.png)](https://www.w3schools.com/tags/tag_meta.asp)
+[![name](assets/images/htmlref.png)](https://www.w3schools.com/tags/tag_meta.asp)
 ## Thank you all
 Everyone helped in this first challenge. Study group also helped in this process. Thank you to everyone.
 ## License
