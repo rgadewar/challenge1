@@ -1,7 +1,7 @@
 # challenge1
 ## Description
-In this section, I have learned about HTML and different CSS elements. I have practiced Git workflows, User stories, professional read me. This website contains notes on HTML, CSS, Git, and JavaScript.
-- [Website Preview](#website-preview)
+In this section, I have learned about HTML and different CSS elements. I have practiced Git workflows, User stories, professional read me. This website contains notes on HTML, CSS, Git, and JavaScript. In this project, we have done a lot of refactoring to HTML code for adding sections, removing divs, adding ids to HTML elements, syntax error, classes if not there, removing redundant code. In CSS also, consolidated lot of CSS elements
+.- [Website Preview](#website-preview)
 - [Credits](#credits)
     - [CSS Information](#css-information)
     - [Git Cheat Sheet](#git-cheat-sheet-pdf)
