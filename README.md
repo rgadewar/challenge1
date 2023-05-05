@@ -1,7 +1,7 @@
 # challenge1
 ## Description
 In this section, I have learned about HTML and different CSS elements. I have practiced Git workflows, User stories, professional read me. This website contains notes on HTML, CSS, Git, and JavaScript. In this project, we have done a lot of refactoring to HTML code for adding sections, removing divs, adding ids to HTML elements, syntax error, classes if not there, removing redundant code. In CSS also, consolidated lot of CSS elements. Made structutral changes to HTML to get clear distinction between header, content, footer.
-.- [Website Preview](#website-preview)
+- [Website Preview](#website-preview)
 - [Credits](#credits)
     - [CSS Information](#css-information)
     - [Git Cheat Sheet](#git-cheat-sheet-pdf)
@@ -12,6 +12,9 @@ In this section, I have learned about HTML and different CSS elements. I have pr
 [Horiseon Website Link](https://rgadewar.github.io/challenge1/)
 
 ![alt](assets/images/Website.png)
+## Mobile Website Preview
+![alt](assets/images/mobileWebsite.png)
+
 ## Installation
 N/A
 ## Credits
